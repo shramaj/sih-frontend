@@ -6,7 +6,7 @@ export const PERSONS : Person[] = [
     {id : 3, name : "mr gola"},
     {id : 4, name : "mr jhola"},
     {id : 5, name : "mr dhola"},
-    {id : 6, name : "mr mola"},
+    {id : 6, name : "mr holla"},
 
 
 ];
